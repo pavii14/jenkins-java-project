@@ -5,7 +5,7 @@ package in.javahome.myweb.controller;
 public class Calculator {
 	
 	/*
-	 * @param i
+	 * @param imk
 	 * @param j
 	 * @return int
 	 */
